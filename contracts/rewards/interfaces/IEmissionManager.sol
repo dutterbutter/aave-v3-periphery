@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: AGPL-3.0
-pragma solidity ^0.8.10;
+pragma solidity ^0.8.20;
 
 import {IEACAggregatorProxy} from '../../misc/interfaces/IEACAggregatorProxy.sol';
 import {RewardsDataTypes} from '../libraries/RewardsDataTypes.sol';
